@@ -10,5 +10,6 @@ require 'pry'
 
 def get_the_values(groceries)
   groceries.keys
+  groceries.values
 
 end
